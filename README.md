@@ -8,7 +8,7 @@
 
 ## 💻 Tech & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=github,ruby,sinatra,linux,ubuntu,kali,atom,vscode,burpsuite" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=github,mysql,ruby,cpp,linux,ubuntu,kali,windows,atom,vscode,burpsuite,metasploit," alt="Tech Icons" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ## 🛡️ Cybersecurity / Hacking Skills
 - 🔹 Web Penetration Testing (OWASP Top 10, WAF Bypass)  
 - 🔹 Network Pentesting & Exploit Development  
-- 🔹 Malware Analysis & Ransomware Simulation  
+- 🔹 Ransomware Simulation  
 - 🔹 Social Engineering & Phishing Techniques  
 
 ---
