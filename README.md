@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Andriano Pasmarang Denny
 
 ## ⚡ About Me
-- 🔹 Developer | Cyber Security Enthusiast | OSINT Enthusiast  
+     Ruby Sinatra Developer | Web App Builder | API Integration | Dashboard Systems
+- 🔹 Cyber Security Enthusiast | OSINT Enthusiast  
 - 🔹 S1 Sistem Informasi | Fokus ke Cybersecurity & Software Development    
 
 ---
